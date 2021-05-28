@@ -79,7 +79,7 @@
 
   .tooltip-inner {
   background-color: #4e73df !important;
-  color: white ;
+  color: rgb(211, 100, 100) ;
 }
   .bs-tooltip-right .arrow::before, .bs-tooltip-auto[x-placement^="right"] .arrow::before {
   border-right-color: #4e73df !important;
